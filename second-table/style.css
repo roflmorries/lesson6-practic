@@ -1,0 +1,26 @@
+table {
+    width: 90%;
+    border-collapse: collapse;
+}
+.nested-table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+td {
+    border: 1px solid black;
+    padding: 20px;
+    text-align: center;
+}
+.width60 {
+    width: 60%;
+}
+.width28 {
+    width: 28%;
+}
+.width33 {
+    width: 33%;
+}
+.high200px {
+    height: 200px;
+}
